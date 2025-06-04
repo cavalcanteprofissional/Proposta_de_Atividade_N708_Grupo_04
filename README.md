@@ -41,7 +41,7 @@ Este repositório contém a proposta de atividade desenvolvida pelo Grupo 04 com
    cd ../backend
    npm install
    ```
-### Instalação
+### Execução
 1. Inicie o servidor do backend:
    ```bash
    cd ../frontend
